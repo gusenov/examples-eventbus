@@ -1,0 +1,1 @@
+- [mmcshane/eventbus: A threadsafe C++ implementation of the EventBus idiom](https://github.com/mmcshane/eventbus)
